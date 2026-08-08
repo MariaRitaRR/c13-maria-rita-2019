@@ -22,7 +22,7 @@ exp(2)              % 7.3891
 sin(deg2rad(30))    % 0.5
 cos(deg2rad(60))    % 0.5
 tan(deg2rad(45))    % 1
-% alternativa: sind(30), cosd(60), tand(45)
+
 
 %% 5. Criando vetores
 v1 = 1:10
